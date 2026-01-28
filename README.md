@@ -1,5 +1,4 @@
 # Cryptoverse
-https://cryptoverse-vishalpanchal.netlify.app/
 
 A fully Responsive Cryptocurrency dashboard website fetching data from multiple APIs and providing useful information about:
 - Top Ranked Cryptocurrencies
